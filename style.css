@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#titulinis{
+    width: 100%;
+    height: 80vh;
+    background-image:url(Foto/Dakaras3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 1px;
+    
+        
+}
+h1{
+    text-align: center;
+    margin-top:300px;
+    font-family:verdana;
+    color: #fff;
+    text-shadow: 2px 2px 5px black;
+    font-size: 60px;
+}
+.dalyviai{
+    width: 70%;
+    height: auto;
+    margin: 25px auto;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 10px grey; 
+    
+}
+
+
+
+img{
+    width: 500px;
+    height: 325px;
+}
+h2{
+    width: 500px;
+    margin: 10px auto;
+    font-family: fantasy;
+    color: red;
+}
+p{
+    width: 500px;
+    margin: 5px auto;
+    font-family: Helvetica;
+    color: green;
+}
+footer{outline: 2px dashed blue;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    background-image: url(Foto/Dakaras2Ap.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 10px;
+    color: red;
+    
+}
+footer img{
+    width: 40px;
+    height: 40px;
+    box-shadow: 2px 2px 10px grey;
+    
+}
+
+
+
+    
